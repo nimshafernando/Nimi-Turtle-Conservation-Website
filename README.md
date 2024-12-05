@@ -33,7 +33,7 @@ This project is a **Turtle Hatchery** website built using **HTML** and **CSS**. 
 
 ### **Installation**
 
-1.  bashCopy codegit clone https://github.com/nimshafernando/Nimi-Turtle-Conservation-Website.gitcd Nimi-Turtle-Conservation-Website
+1.  bashCopy codegit clone https://github.com/nimshafernando/Nimi-Turtle-Conservation-Website - gitcd Nimi-Turtle-Conservation-Website
     
 2.  Open the index.html file in your browser to view the website.
     
