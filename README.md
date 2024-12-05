@@ -1,42 +1,26 @@
-Turtle Hatchery Website & Ticket Booking System 🐢
-==================================================
+Turtle Hatchery Website 🐢
+==========================
 
-**A Simple Web Application for Turtle Hatchery Information and Ticket Booking**
+**A Simple Static Website Built with HTML and CSS**
 
-This project consists of two parts:
-
-1.  **Turtle Hatchery Website** - A static website built using **HTML** and **CSS** to provide information about the hatchery, its mission, services, and more.
-    
-2.  **Turtle Hatchery Ticket Booking System** - A ticket booking system that allows users to manage bookings for hatchery visits, with data stored locally for persistence.
-    
+This project is a **Turtle Hatchery** website built using **HTML** and **CSS**. The website provides information about the hatchery, its mission, services, and more. It features a clean, responsive design to ensure a good user experience across different devices.
 
 🌟 Features
 -----------
 
-### **Turtle Hatchery Website**
-
-*   **Responsive Design**: The website is mobile-friendly and adapts to various screen sizes using **CSS** media queries.
+*   **Responsive Design**: The website adapts to various screen sizes using **CSS** media queries, making it mobile-friendly.
     
-*   **Informative Sections**: Contains information about the turtle hatchery, its mission, services, and turtle care.
+*   **Informative Sections**: Includes details about the turtle hatchery, mission, turtle care, and services.
     
-*   **Clean Layout**: A well-organized and visually appealing design.
-    
-
-### **Turtle Hatchery Ticket Booking System**
-
-*   **Ticket Booking System**: Users can book tickets for visiting the hatchery, and their booking information is saved in **local storage** for persistence across sessions.
-    
-*   **Interactive Interface**: Clean and simple layout using HTML and CSS for easy navigation and user experience.
-    
-*   **Client-Side Storage**: Bookings are stored locally using **local storage**, ensuring easy access without requiring a server-side database.
+*   **Clean Layout**: Well-organized and visually appealing layout using **HTML** and **CSS**.
     
 
 🛠️ Technologies Used
 ---------------------
 
-*   **HTML**: Provides the structure and content of the website.
+*   **HTML**: Structure and content of the website.
     
-*   **CSS**: Styles the website and ensures responsiveness on different devices.
+*   **CSS**: Styling for a responsive and clean design.
     
 
 📌 Getting Started
@@ -49,29 +33,19 @@ This project consists of two parts:
 
 ### **Installation**
 
-1.  bashCopy codegit clone (https://github.com/nimshafernando/Nimi-Turtle-Conservation-Website)
+1.  bashCopy codegit clone https://github.com/nimshafernando/Nimi-Turtle-Conservation-Website.gitcd Nimi-Turtle-Conservation-Website
+    
 2.  Open the index.html file in your browser to view the website.
     
 
 📖 Usage
 --------
 
-### **Turtle Hatchery Website**
-
-1.  Visit the website to learn about the turtle hatchery, including its mission, history, and services.
+1.  **Visit the website** to learn about the turtle hatchery, including its mission, history, and services.
     
-2.  The website is fully **responsive**, so it will work well on both desktop and mobile devices.
+2.  The website is **fully responsive**, so it will work well on both desktop and mobile devices.
     
 3.  Use the **navigation bar** to explore different sections of the site.
-    
-
-### **Turtle Hatchery Ticket Booking System**
-
-1.  **Visit the site** and book tickets for the turtle hatchery.
-    
-2.  **Your bookings will be saved locally**, and you can view them even after refreshing the page.
-    
-3.  **Modify or remove bookings** using the interface.
     
 
 🤝 Contribution
@@ -84,4 +58,7 @@ Contributions are welcome! Feel free to fork the repository, make changes, and s
 
 This project is licensed under the MIT License.
 
+📧 Contact
+----------
 
+For inquiries, reach out at: nimsha.riveen@gmail.comVisit the project on GitHub: [Turtle Hatchery Website Repository](https://github.com/nimshafernando/Nimi-Turtle-Conservation-Website)
