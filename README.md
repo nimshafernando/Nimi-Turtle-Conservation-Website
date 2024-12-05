@@ -61,4 +61,5 @@ This project is licensed under the MIT License.
 📧 Contact
 ----------
 
-For inquiries, reach out at: nimsha.riveen@gmail.comVisit the project on GitHub: [Turtle Hatchery Website Repository](https://github.com/nimshafernando/Nimi-Turtle-Conservation-Website)
+For inquiries, reach out at: nimsha.riveen@gmail.com
+Visit the project on GitHub: [Turtle Hatchery Website Repository](https://github.com/nimshafernando/Nimi-Turtle-Conservation-Website)
