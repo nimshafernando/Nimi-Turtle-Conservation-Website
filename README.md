@@ -49,8 +49,7 @@ This project consists of two parts:
 
 ### **Installation**
 
-1.  bashCopy codegit clone https://github.com/your-username/turtle-hatchery-website.gitcd turtle-hatchery-website
-    
+1.  bashCopy codegit clone (https://github.com/nimshafernando/Nimi-Turtle-Conservation-Website)
 2.  Open the index.html file in your browser to view the website.
     
 
@@ -85,7 +84,4 @@ Contributions are welcome! Feel free to fork the repository, make changes, and s
 
 This project is licensed under the MIT License.
 
-📧 Contact
-----------
 
-For inquiries, reach out at: your-email@example.comVisit the project on GitHub: [Turtle Hatchery Website Repository](https://github.com/your-username/turtle-hatchery-website)
